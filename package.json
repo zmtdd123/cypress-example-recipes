@@ -49,7 +49,7 @@
     "minimist": "^1.2.0",
     "morgan": "^1.7.0",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
     "@cypress/browserify-preprocessor": "^1.0.0",
